@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MalcolmDeuce
 - 👀 I’m interested in coding and networking
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently pursuing a Bachelor's Degree in Information Science.
 
 <!---
 MalcolmDeuce/MalcolmDeuce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
